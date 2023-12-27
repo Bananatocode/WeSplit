@@ -1,7 +1,16 @@
 # WeSplit
 
 ## Overview
-WeSplit is a simple yet practical application designed to make group outings easier by calculating tips based on the total bill and party size. This app serves as an efficient tool to quickly figure out how much each person needs to pay, including their share of the tip. WeSplit was developed as a part of my learning journey through the "100 Days of SwiftUI" course.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/WeSplit/assets/123434744/b2184aae-955b-46c3-914e-eee2b6483937" alt="WeSplit App Demo" width="300" />
+    </td>
+    <td>
+      WeSplit is a simple yet practical application designed to make group outings easier by calculating tips based on the total bill and party size. This app serves as an efficient tool to quickly figure out how much each person needs to pay, including their share of the tip. WeSplit was developed as a part of my learning journey through the "100 Days of SwiftUI" course.
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 - **Tip Calculator:** Enter the total bill amount, select the tip percentage, and specify the number of people in the party to calculate each person's share.
