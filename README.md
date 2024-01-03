@@ -7,7 +7,9 @@
       <img src="https://github.com/penguin-waddle/WeSplit/assets/123434744/b2184aae-955b-46c3-914e-eee2b6483937" alt="WeSplit App Demo" width="300" />
     </td>
     <td>
-      WeSplit is a simple yet practical application designed to make group outings easier by calculating tips based on the total bill and party size. This app serves as an efficient tool to quickly figure out how much each person needs to pay, including their share of the tip. WeSplit was developed as a part of my learning journey through the "100 Days of SwiftUI" course.
+      WeSplit is a simple yet practical application designed to make group outings easier by calculating tips based on the total bill and party size. This app serves as an efficient tool to quickly figure out how much each person needs to pay, including their share of the tip. WeSplit was developed as a part of my learning journey through the "100 Days of SwiftUI" course. 
+<br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
     </td>
   </tr>
 </table>
